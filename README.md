@@ -208,6 +208,7 @@ Project Link: [https://github.com/RomainOdeval/heroes-quizz](https://github.com/
 Some external documentation quite useful to understand this project :
 
 * [Symfony official documentation](https://symfony.com/doc/current/index.html)
+* [Testing with Symfony](https://symfony.com/doc/current/testing.html)
 * [Twitch's user access token](https://dev.twitch.tv/docs/authentication/#user-access-tokens)
 * [HoMM3 community wiki](https://heroes.thelazy.net)
 
