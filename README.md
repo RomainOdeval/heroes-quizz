@@ -19,7 +19,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div style="text-align:center;">
-  <a href="https://github.com/RomainOdeval/heroes-quizz">
+  <a style="display: flex;justify-content: center;" href="https://github.com/RomainOdeval/heroes-quizz">
     <img src="assets/images/h3_christian.webp" alt="Logo" height="80">
   </a>
 
@@ -72,7 +72,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Heroes Quizz Screen Shot][product-screenshot]](https://example.com)
 
 A great french streamer and HoMM3 (Heroes of Might and Magic III) player, known as [Le J](https://www.twitch.tv/le_j_heroes), loves HoMM3 facts.
 [Antonin](https://github.com/AntoninTL) decided it was time to provide some fun tool to HoMM3 community and challenging them with HoMM3 quizz.
@@ -227,8 +227,8 @@ Some external documentation quite useful to understand this project :
 [issues-shield]: https://img.shields.io/github/issues/RomainOdeval/heroes-quizz.svg?style=for-the-badge
 [issues-url]: https://github.com/RomainOdeval/heroes-quizz/issues
 [license-shield]: https://img.shields.io/github/license/RomainOdeval/heroes-quizz.svg?style=for-the-badge
-[license-url]: https://github.com/RomainOdeval/heroes-quizz/LICENSE
-[product-screenshot]: images/screenshot.png
+[license-url]: https://github.com/RomainOdeval/heroes-quizz/blob/main/LICENSE
+[product-screenshot]: assets/images/screenshot.png
 [Symfony.com]: https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white
 [Symfony-url]: https://symfony.com
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
